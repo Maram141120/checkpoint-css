@@ -1,84 +1,31 @@
-<!DOCTYPE html>
-<html lang="maram.html">
-	<head>
-		<meta charset="" />
-		<link rel="stylesheet" href="./styles.css" />
-		<meta name="viewport" content="width=, initial-scale=" />
-		<title>My portfolio</title>
-	</head>
-    <body>
-   <h1 id="blue-bordered"> My portfolio<h1>
-   <style>
-   h1{
-        color: red;
-        font-family: roboto;
-        text-align: center;
-    }
+
+h1 {
+    color: red;
+    font-family: roboto;
+    text-align: center;
+   }
+
 #blue-bordered {
-    border: 5px dashed blue;
+    border: 
+    5px dashed #313194
+   }
+nav {
+    color: black;
+    font-family: roboto;
+    text-align: center;
 }
-</style>
-       <img src="C:\Users\maram\OneDrive\Bureau\mi.jpg" height="100"weight="100"> 
-  <CENTER> 
-  <nav>
-      <a href="#home">Home</a>
-      <a href="#about">About</a>
-      <a href="#work">Work</a>
-      <a href="#resume">Resume</a>
-      <a href="#contact">Contact</a>
-  </nav>
-  <hr>
-</CENTER>
-<style>
-   nav{
-        color: black;
-        font-family: roboto;
-        text-align: center;
-    }
-</style>
-<br>
-<section id="home">
-      <h2>Welcome to My Portfolio</h2>
-      <h3>This is the home section<h3>
-  </section>
 
-  <hr>
-  <section id="about">
-      <h2>About Me</h2>
-      <h3>I'm MARAM HMIDA I'm 19 years old <h3>
-  </section>
-  <hr>
-  <section id="work">
-      <h2>My Work</h2>
-      <h3>I'm student at universty<h3>
-  </section>
-  <hr>
-  <section id="resume">
-      <h2>My Resume</h2>
-      <p></p>
-  </section>
-  <hr>
-  <section id="contact">
-      <h2>Contact Me</h2>
 
-      <h3> Name: <input type="text"name="Name"size="20"><br>
-      <br> Email: <input type="text"name="Name"size="20"><br>
-      Message: <br> <textarea id="message" name="message" rows="4" required></textarea><br>
-          <input type="submit" value="Submit"<h3>
+ 
+ h2 {
+    color: purple;
+    font-family: roboto;
+    text-align: left;
+}
 
-          <hr>
-    <style>
-   h2{
-        color: purple;
-        font-family: roboto;
-        text-align: left;
-    }
-   h3{
-        color: black;
-        font-family: roboto;
-        text-align: left;
-    }
-</style>
+h3 {
+    color: black;
+    font-family: roboto;
+    text-align: left;
+}
 
-  </body>
-</html>
